@@ -1,0 +1,647 @@
+{
+  "targetRate": 20,
+  "periodLabel": "2026-07",
+  "prevPeriodLabel": "2026-06",
+  "uploadedAt": "2026-09-17",
+  "overall": {
+    "totalRevenue": 11716000,
+    "totalProfit": 2657000,
+    "totalSettlement": 8040000,
+    "avgMarginRate": 22.68,
+    "avgDiscountShare": 8.56,
+    "avgCostRatio": 68.53,
+    "avgReturnRate": 6.78,
+    "belowTargetCount": 5,
+    "totalVendorCount": 14
+  },
+  "monthlyTrend": [
+    {
+      "label": "2026-06",
+      "avgMarginRate": 25.18,
+      "totalSettlement": 9246000
+    },
+    {
+      "label": "2026-07",
+      "avgMarginRate": 22.68,
+      "totalSettlement": 8040000
+    }
+  ],
+  "vendors": [
+    {
+      "name": "가온리빙",
+      "revenue": 1097000,
+      "discountTotal": 138000,
+      "settlement": 872000,
+      "profit": 87000,
+      "marginRate": 7.93,
+      "marginRateExReturns": 11.38,
+      "costRatio": 79.5,
+      "returnRate": 11.5,
+      "discountShares": [
+        40,
+        25,
+        20,
+        15
+      ],
+      "lineCount": 6,
+      "prevMarginRate": null,
+      "isNew": true,
+      "channelBreakdown": [
+        {
+          "name": "로얄몰",
+          "revenue": 843131,
+          "marginRate": 7.93
+        },
+        {
+          "name": "오프라인쇼룸",
+          "revenue": 253869,
+          "marginRate": 5.93
+        }
+      ],
+      "categoryBreakdown": [
+        {
+          "name": "욕실용품",
+          "revenue": 767900,
+          "marginRate": 7.93
+        },
+        {
+          "name": "주방용품",
+          "revenue": 329100,
+          "marginRate": 9.43
+        }
+      ]
+    },
+    {
+      "name": "예찬산업",
+      "revenue": 836000,
+      "discountTotal": 84000,
+      "settlement": 473000,
+      "profit": 279000,
+      "marginRate": 33.37,
+      "marginRateExReturns": 36.88,
+      "costRatio": 56.6,
+      "returnRate": 11.7,
+      "discountShares": [
+        40,
+        25,
+        20,
+        15
+      ],
+      "lineCount": 6,
+      "prevMarginRate": 35.47,
+      "isNew": false,
+      "channelBreakdown": [
+        {
+          "name": "로얄몰",
+          "revenue": 582239,
+          "marginRate": 33.37
+        },
+        {
+          "name": "오프라인쇼룸",
+          "revenue": 253761,
+          "marginRate": 31.37
+        }
+      ],
+      "categoryBreakdown": [
+        {
+          "name": "주방용품",
+          "revenue": 585200,
+          "marginRate": 33.37
+        },
+        {
+          "name": "생활용품",
+          "revenue": 250800,
+          "marginRate": 34.87
+        }
+      ]
+    },
+    {
+      "name": "다솜테크",
+      "revenue": 1153000,
+      "discountTotal": 138000,
+      "settlement": 978000,
+      "profit": 37000,
+      "marginRate": 3.21,
+      "marginRateExReturns": 4.02,
+      "costRatio": 84.8,
+      "returnRate": 2.7,
+      "discountShares": [
+        40,
+        25,
+        20,
+        15
+      ],
+      "lineCount": 6,
+      "prevMarginRate": -0.44,
+      "isNew": false,
+      "channelBreakdown": [
+        {
+          "name": "로얄몰",
+          "revenue": 918345,
+          "marginRate": 3.21
+        },
+        {
+          "name": "오프라인쇼룸",
+          "revenue": 234655,
+          "marginRate": 1.21
+        }
+      ],
+      "categoryBreakdown": [
+        {
+          "name": "생활용품",
+          "revenue": 807100,
+          "marginRate": 3.21
+        },
+        {
+          "name": "욕실용품",
+          "revenue": 345900,
+          "marginRate": 4.71
+        }
+      ]
+    },
+    {
+      "name": "청림위생",
+      "revenue": 447000,
+      "discountTotal": 27000,
+      "settlement": 305000,
+      "profit": 115000,
+      "marginRate": 25.73,
+      "marginRateExReturns": 27.95,
+      "costRatio": 68.3,
+      "returnRate": 7.4,
+      "discountShares": [
+        40,
+        25,
+        20,
+        15
+      ],
+      "lineCount": 5,
+      "prevMarginRate": 27.44,
+      "isNew": false,
+      "channelBreakdown": [
+        {
+          "name": "로얄몰",
+          "revenue": 273640,
+          "marginRate": 25.73
+        },
+        {
+          "name": "오프라인쇼룸",
+          "revenue": 173360,
+          "marginRate": 23.73
+        }
+      ],
+      "categoryBreakdown": [
+        {
+          "name": "욕실용품",
+          "revenue": 312900,
+          "marginRate": 25.73
+        },
+        {
+          "name": "주방용품",
+          "revenue": 134100,
+          "marginRate": 27.23
+        }
+      ]
+    },
+    {
+      "name": "한올리빙",
+      "revenue": 982000,
+      "discountTotal": 102000,
+      "settlement": 668000,
+      "profit": 212000,
+      "marginRate": 21.59,
+      "marginRateExReturns": 22.13,
+      "costRatio": 68,
+      "returnRate": 1.8,
+      "discountShares": [
+        40,
+        25,
+        20,
+        15
+      ],
+      "lineCount": 3,
+      "prevMarginRate": 25.65,
+      "isNew": false,
+      "channelBreakdown": [
+        {
+          "name": "로얄몰",
+          "revenue": 729230,
+          "marginRate": 21.59
+        },
+        {
+          "name": "오프라인쇼룸",
+          "revenue": 252770,
+          "marginRate": 19.59
+        }
+      ],
+      "categoryBreakdown": [
+        {
+          "name": "주방용품",
+          "revenue": 687400,
+          "marginRate": 21.59
+        },
+        {
+          "name": "생활용품",
+          "revenue": 294600,
+          "marginRate": 23.09
+        }
+      ]
+    },
+    {
+      "name": "소담하우스",
+      "revenue": 1090000,
+      "discountTotal": 70000,
+      "settlement": 661000,
+      "profit": 359000,
+      "marginRate": 32.94,
+      "marginRateExReturns": 36.36,
+      "costRatio": 60.6,
+      "returnRate": 11.4,
+      "discountShares": [
+        40,
+        25,
+        20,
+        15
+      ],
+      "lineCount": 7,
+      "prevMarginRate": 30.78,
+      "isNew": false,
+      "channelBreakdown": [
+        {
+          "name": "로얄몰",
+          "revenue": 663871,
+          "marginRate": 32.94
+        },
+        {
+          "name": "오프라인쇼룸",
+          "revenue": 426129,
+          "marginRate": 30.94
+        }
+      ],
+      "categoryBreakdown": [
+        {
+          "name": "생활용품",
+          "revenue": 763000,
+          "marginRate": 32.94
+        },
+        {
+          "name": "욕실용품",
+          "revenue": 327000,
+          "marginRate": 34.44
+        }
+      ]
+    },
+    {
+      "name": "늘봄생활",
+      "revenue": 467000,
+      "discountTotal": 58000,
+      "settlement": 350000,
+      "profit": 59000,
+      "marginRate": 12.63,
+      "marginRateExReturns": 14.01,
+      "costRatio": 74.9,
+      "returnRate": 4.6,
+      "discountShares": [
+        40,
+        25,
+        20,
+        15
+      ],
+      "lineCount": 2,
+      "prevMarginRate": 14.15,
+      "isNew": false,
+      "channelBreakdown": [
+        {
+          "name": "로얄몰",
+          "revenue": 290350,
+          "marginRate": 12.63
+        },
+        {
+          "name": "오프라인쇼룸",
+          "revenue": 176650,
+          "marginRate": 10.63
+        }
+      ],
+      "categoryBreakdown": [
+        {
+          "name": "욕실용품",
+          "revenue": 326900,
+          "marginRate": 12.63
+        },
+        {
+          "name": "주방용품",
+          "revenue": 140100,
+          "marginRate": 14.13
+        }
+      ]
+    },
+    {
+      "name": "온새미로",
+      "revenue": 676000,
+      "discountTotal": 79000,
+      "settlement": 531000,
+      "profit": 66000,
+      "marginRate": 9.76,
+      "marginRateExReturns": 11.44,
+      "costRatio": 78.5,
+      "returnRate": 5.6,
+      "discountShares": [
+        40,
+        25,
+        20,
+        15
+      ],
+      "lineCount": 7,
+      "prevMarginRate": 9.65,
+      "isNew": false,
+      "channelBreakdown": [
+        {
+          "name": "로얄몰",
+          "revenue": 436948,
+          "marginRate": 9.76
+        },
+        {
+          "name": "오프라인쇼룸",
+          "revenue": 239052,
+          "marginRate": 7.76
+        }
+      ],
+      "categoryBreakdown": [
+        {
+          "name": "주방용품",
+          "revenue": 473200,
+          "marginRate": 9.76
+        },
+        {
+          "name": "생활용품",
+          "revenue": 202800,
+          "marginRate": 11.26
+        }
+      ]
+    },
+    {
+      "name": "푸른들위생",
+      "revenue": 850000,
+      "discountTotal": 71000,
+      "settlement": 550000,
+      "profit": 229000,
+      "marginRate": 26.94,
+      "marginRateExReturns": 29.49,
+      "costRatio": 64.7,
+      "returnRate": 8.5,
+      "discountShares": [
+        40,
+        25,
+        20,
+        15
+      ],
+      "lineCount": 6,
+      "prevMarginRate": 29.86,
+      "isNew": false,
+      "channelBreakdown": [
+        {
+          "name": "로얄몰",
+          "revenue": 655295,
+          "marginRate": 26.94
+        },
+        {
+          "name": "오프라인쇼룸",
+          "revenue": 194705,
+          "marginRate": 24.94
+        }
+      ],
+      "categoryBreakdown": [
+        {
+          "name": "생활용품",
+          "revenue": 595000,
+          "marginRate": 26.94
+        },
+        {
+          "name": "욕실용품",
+          "revenue": 255000,
+          "marginRate": 28.44
+        }
+      ]
+    },
+    {
+      "name": "다올테크",
+      "revenue": 1184000,
+      "discountTotal": 110000,
+      "settlement": 816000,
+      "profit": 258000,
+      "marginRate": 21.79,
+      "marginRateExReturns": 23.17,
+      "costRatio": 68.9,
+      "returnRate": 4.6,
+      "discountShares": [
+        40,
+        25,
+        20,
+        15
+      ],
+      "lineCount": 3,
+      "prevMarginRate": 23.11,
+      "isNew": false,
+      "channelBreakdown": [
+        {
+          "name": "로얄몰",
+          "revenue": 914369,
+          "marginRate": 21.79
+        },
+        {
+          "name": "오프라인쇼룸",
+          "revenue": 269631,
+          "marginRate": 19.79
+        }
+      ],
+      "categoryBreakdown": [
+        {
+          "name": "욕실용품",
+          "revenue": 828800,
+          "marginRate": 21.79
+        },
+        {
+          "name": "주방용품",
+          "revenue": 355200,
+          "marginRate": 23.29
+        }
+      ]
+    },
+    {
+      "name": "별빛리빙",
+      "revenue": 743000,
+      "discountTotal": 25000,
+      "settlement": 412000,
+      "profit": 306000,
+      "marginRate": 41.18,
+      "marginRateExReturns": 43.25,
+      "costRatio": 55.5,
+      "returnRate": 6.9,
+      "discountShares": [
+        40,
+        25,
+        20,
+        15
+      ],
+      "lineCount": 7,
+      "prevMarginRate": 39.93,
+      "isNew": false,
+      "channelBreakdown": [
+        {
+          "name": "로얄몰",
+          "revenue": 507312,
+          "marginRate": 41.18
+        },
+        {
+          "name": "오프라인쇼룸",
+          "revenue": 235688,
+          "marginRate": 39.18
+        }
+      ],
+      "categoryBreakdown": [
+        {
+          "name": "주방용품",
+          "revenue": 520100,
+          "marginRate": 41.18
+        },
+        {
+          "name": "생활용품",
+          "revenue": 222900,
+          "marginRate": 42.68
+        }
+      ]
+    },
+    {
+      "name": "나래산업",
+      "revenue": 358000,
+      "discountTotal": 25000,
+      "settlement": 231000,
+      "profit": 102000,
+      "marginRate": 28.49,
+      "marginRateExReturns": 30.74,
+      "costRatio": 64.5,
+      "returnRate": 7.5,
+      "discountShares": [
+        40,
+        25,
+        20,
+        15
+      ],
+      "lineCount": 2,
+      "prevMarginRate": 29.25,
+      "isNew": false,
+      "channelBreakdown": [
+        {
+          "name": "로얄몰",
+          "revenue": 235249,
+          "marginRate": 28.49
+        },
+        {
+          "name": "오프라인쇼룸",
+          "revenue": 122751,
+          "marginRate": 26.49
+        }
+      ],
+      "categoryBreakdown": [
+        {
+          "name": "생활용품",
+          "revenue": 250600,
+          "marginRate": 28.49
+        },
+        {
+          "name": "욕실용품",
+          "revenue": 107400,
+          "marginRate": 29.99
+        }
+      ]
+    },
+    {
+      "name": "초록숲생활",
+      "revenue": 725000,
+      "discountTotal": 42000,
+      "settlement": 565000,
+      "profit": 118000,
+      "marginRate": 16.28,
+      "marginRateExReturns": 18.17,
+      "costRatio": 77.9,
+      "returnRate": 6.3,
+      "discountShares": [
+        40,
+        25,
+        20,
+        15
+      ],
+      "lineCount": 7,
+      "prevMarginRate": 16.53,
+      "isNew": false,
+      "channelBreakdown": [
+        {
+          "name": "로얄몰",
+          "revenue": 535615,
+          "marginRate": 16.28
+        },
+        {
+          "name": "오프라인쇼룸",
+          "revenue": 189385,
+          "marginRate": 14.28
+        }
+      ],
+      "categoryBreakdown": [
+        {
+          "name": "욕실용품",
+          "revenue": 507500,
+          "marginRate": 16.28
+        },
+        {
+          "name": "주방용품",
+          "revenue": 217500,
+          "marginRate": 17.78
+        }
+      ]
+    },
+    {
+      "name": "하늬바람테크",
+      "revenue": 1108000,
+      "discountTotal": 50000,
+      "settlement": 628000,
+      "profit": 430000,
+      "marginRate": 38.81,
+      "marginRateExReturns": 40.13,
+      "costRatio": 56.7,
+      "returnRate": 4.4,
+      "discountShares": [
+        40,
+        25,
+        20,
+        15
+      ],
+      "lineCount": 2,
+      "prevMarginRate": 38.62,
+      "isNew": false,
+      "channelBreakdown": [
+        {
+          "name": "로얄몰",
+          "revenue": 916143,
+          "marginRate": 38.81
+        },
+        {
+          "name": "오프라인쇼룸",
+          "revenue": 191857,
+          "marginRate": 36.81
+        }
+      ],
+      "categoryBreakdown": [
+        {
+          "name": "주방용품",
+          "revenue": 775600,
+          "marginRate": 38.81
+        },
+        {
+          "name": "생활용품",
+          "revenue": 332400,
+          "marginRate": 40.31
+        }
+      ]
+    }
+  ]
+}
