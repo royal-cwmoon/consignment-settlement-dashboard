@@ -36,6 +36,8 @@ jobs:
       - name: Build
         env:
           GITHUB_PAGES: "true"
+          NEXT_PUBLIC_DASHBOARD_ID: ${{ secrets.NEXT_PUBLIC_DASHBOARD_ID }}
+          NEXT_PUBLIC_DASHBOARD_PASSWORD: ${{ secrets.NEXT_PUBLIC_DASHBOARD_PASSWORD }}
         run: npm run build
 
       - name: Setup Pages
